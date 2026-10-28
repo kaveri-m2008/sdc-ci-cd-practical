@@ -1,0 +1,8 @@
+{
+  "name": "sdc-ci-cd-practical",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo Build successful",
+    "test": "node test.js"
+  }
+}
